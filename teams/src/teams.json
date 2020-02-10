@@ -1,0 +1,10 @@
+{
+    "file-name" : "teams",
+    "list" : [
+        {"name": "Seattle Seahawks", "id":1 },
+        {"name": "Houston Texans", "id":2 },
+        {"name": "Green Bay Packers", "id":3 },
+        {"name": "Minnesota Vikings", "id":4 },
+        {"name": "Chicago Bears", "id":5 }
+    ]
+}
